@@ -1,0 +1,29 @@
+body{
+text-align: center;    
+}
+#s1{
+background-color:#73fab6;
+width:100%;
+height:800px;
+}
+#s2{
+background-color:#e3bbfa;
+width:100%;
+height:500px;    
+}
+#s3{
+background-color:#fdff7a;
+width:100%;
+height:750px;    
+}
+#myCarousel img{
+    height:300px;
+    margin-top:35px;
+}
+.carousel-inner p{
+    margin-top:15px;
+    margin-bottom:15px;
+    color:black;
+    font-size:23px;
+    font-weight:bold;
+}
